@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="230f2d5c-4a07-4b1f-ab9e-0b2a899a7408" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Java-Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +110,7 @@
       <workItem from="1602556755185" duration="265000" />
       <workItem from="1602596161322" duration="1917000" />
       <workItem from="1602598200115" duration="159000" />
+      <workItem from="1602598421063" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="Java Simple Pojo Upload">
       <created>1602492769938</created>
@@ -122,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602492769938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java Simple Pojo Upload">
+      <created>1602598529843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602598529844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Simple Pojo Upload">
+      <created>1602598646422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602598646422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,10 +152,14 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="298" y="42" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1360.728@0.0.1360.728" timestamp="1602493175872" />
-    <state x="236" y="0" key="CommitChangelistDialog2" timestamp="1602492766627">
+    <state x="456" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602599156944">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="236" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1602492766627" />
+    <state x="456" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1360.728@0.0.1360.728" timestamp="1602599156944" />
+    <state x="236" y="0" key="CommitChangelistDialog2" timestamp="1602598643728">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="236" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1602598643728" />
     <state x="439" y="96" key="FileChooserDialogImpl" timestamp="1602598306978">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -169,9 +184,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="160" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1602598355044" />
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602492774262">
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602599166860">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1602492774262" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1602599166860" />
   </component>
 </project>
